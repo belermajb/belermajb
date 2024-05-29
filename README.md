@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in Web development
 - 📫 How to reach me belermajb@gmail.com
 
 <!---
