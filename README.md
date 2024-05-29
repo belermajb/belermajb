@@ -1,7 +1,5 @@
-- 👋 Hi, I’m John Benedict Belerma
-- 👀 I’m interested in Web development and back-end programming
-- 🌱 I’m currently learning GoLang
-- 💞️ I’m looking to collaborate on cool projects
+- 👋 Hi, I’m Ben
+- 👀 I’m interested in Web development
 - 📫 How to reach me belermajb@gmail.com
 
 <!---
